@@ -23,7 +23,7 @@ title: Coding and stuff
 description: |-
   Software Engineering, CyberSecurity, Indie-Hacking, and other things I learn along the way of tinkering...
   Have any tips or thoughts? Share them with me
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: demian_bash
 #github_username:  jekyll
